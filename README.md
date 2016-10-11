@@ -1,1 +1,1 @@
-# Wild_life_mapper
+# WildLifeMapper
